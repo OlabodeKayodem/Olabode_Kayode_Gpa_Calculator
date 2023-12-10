@@ -22,4 +22,4 @@ This Java program calculates GPA (Grade Point Average) on a 5.0 scale.
 
 ![Result](https://github.com/OlabodeKayodem/Olabode_Kayode_Gpa_Calculator/assets/153414835/8561d475-3227-42d1-9d3b-65d47c1eb717)
 
-   **- Ensure you follow the prompts and input the information correctly for accurate GPA calculation.**
+  -  **Ensure you follow the prompts and input the information correctly for accurate GPA calculation.**
