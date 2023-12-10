@@ -7,12 +7,12 @@ This Java program calculates GPA (Grade Point Average) on a 5.0 scale. Follow th
 
 2. **Input Course Information:**
    - For each course, you will be prompted to enter the following details:
-     - **Course Name (e.g., Chem 101):**
-       - Enter the course name and press Enter.
-     - **Course Units (e.g., 3):**
-       - Enter the number of course units and press Enter.
-     - **Course Score (e.g., 78):**
-       - Enter the course score and press Enter.
+   - **Course Name (e.g., Chem 101):**
+   - Enter the course name and press Enter.
+   - **Course Units (e.g., 3):**
+   - Enter the number of course units and press Enter.
+   - **Course Score (e.g., 78):**
+   - Enter the course score and press Enter.
 
 
 **Example:**
@@ -37,8 +37,8 @@ Course Score: 60*
    - After entering the information for all courses, the program will calculate the GPA and display the result on a 5.0 scale as shown below.
 
 
-![Result](https://github.com/OlabodeKayodem/Olabode_Kayode_Gpa_Calculator/assets/153414835/2c557dd0-23ac-4495-8d48-ba6b31081035)
 
+![Result](https://github.com/OlabodeKayodem/Olabode_Kayode_Gpa_Calculator/assets/153414835/c41bacc3-e8c4-4170-bac8-d432b57448b6)
 
 
 
