@@ -38,8 +38,7 @@ Course Score: 60*
 
 
 
-![Result](https://github.com/OlabodeKayodem/Olabode_Kayode_Gpa_Calculator/assets/153414835/c41bacc3-e8c4-4170-bac8-d432b57448b6)
-
+https://drive.google.com/file/d/1iU1VsLQv-anJLMB8bcmsVRFZVUJQUcK3/view?usp=drive_link
 
 
 **Ensure that you follow the prompts and input the information correctly for accurate GPA calculation.**
