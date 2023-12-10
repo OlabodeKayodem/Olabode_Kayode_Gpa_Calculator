@@ -3,7 +3,7 @@
 This Java program calculates GPA (Grade Point Average) on a 5.0 scale. Follow the steps below:
 
 1. **Input the Number of Courses:**
-- The program will prompt you to enter the number of courses you want to calculate the GPA for. For example, if you want to calculate the GPA for 3 courses, enter `3` and press Enter.
+   - The program will prompt you to enter the number of courses you want to calculate the GPA for. For example, if you want to calculate       the GPA for 3 courses, enter `3` and press Enter.
 
 2. **Input Course Information:**
    - For each course, you will be prompted to enter the following details:
